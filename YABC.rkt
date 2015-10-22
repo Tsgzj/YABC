@@ -11,6 +11,7 @@ The grammer:
   <LOOP>      ::= [ <INST> ... ]
 
 The evaluation rules:
+  (eval +)    add point by one
 |#
 
 ;; define the AST
